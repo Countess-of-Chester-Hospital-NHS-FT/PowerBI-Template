@@ -13,6 +13,7 @@ We have developed this template to:
 
 ### Using the template
 * We are very happy for others to adapt our template for their needs - just download the .pbit file
+* Open the file and put some data in the fact table
 * The first 3 tabs of the template are a user guide for how to get started, we recommend following this guide
 * If you have found this useful, please do let us know 🙂
 
