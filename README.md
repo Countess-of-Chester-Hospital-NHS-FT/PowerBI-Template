@@ -21,4 +21,5 @@ Only dummy data is contained within this template
 
 ### Acknowledgements
 * This template makes use of the [SPC package](https://github.com/AUS-DOH-Safety-and-Quality/PowerBI-SPC) developed by Western Australia Department of Health
+* The template was primarily developed by [Patrick Devaney](https://github.com/paddy-devan)
 
