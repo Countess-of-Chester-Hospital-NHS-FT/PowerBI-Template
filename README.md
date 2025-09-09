@@ -15,7 +15,8 @@ We have developed this template to:
 * We are very happy for others to adapt our template for their needs - just download the .pbit file
 * Open the file and put some data in the fact table (currently points to a blank datafile)
 * The first 3 tabs of the template are a user guide for how to get started, we recommend following this guide
-* If you have found this useful, please do let us know 🙂
+* If you have found this useful, please do let us know via the Discussions tab 🙂
+* If you discover any issues or bugs please raise as an Issue or in Discussions
 
 ### Data
 No patient/hospital data is contained within this template
